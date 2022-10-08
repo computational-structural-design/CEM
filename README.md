@@ -11,7 +11,7 @@ If you use the CEM library, please refer to the official GitHub repository: <br/
   title  = {{CEM: Combinatorial Equilibrium Modeling}},<br/>
   year   = {2021},<br/>
   note   = {Release 2.00},<br/>
-  url    = { http://github.com/OleOhlbrock/CEM },<br/>
+  url    = { https://github.com/computational-structural-design/CEM.git },<br/>
 }<br/>
 
 
